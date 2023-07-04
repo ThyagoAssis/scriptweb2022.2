@@ -1,0 +1,32 @@
+O que é o ANGULAR? - É um framework baseado em typescript para desenvolvimento Web(HTML, CSS, Typescript)
+Site oficial: https://angular.io/
+
+O que é um framework? - É uma caixa de ferramentas para desenvolvimento
+
+TypeScript - - Adiciona melhorias ao javascript original
+    -> Tipagem estatica 
+    -> Aponta erros na fase de desenvolvimento de uma aplicação
+    -> Desenvolvido pela Microsoft - código aberto 
+
+O que é um SPA (Single Page Aplication)? - É a aplicação de uma unica página.
+    -> Trabalha como um porta retrato onde vc troca somente a foto e mantem a moldura.
+
+Passo 01 - Instalação do Angular   
+            npm install -g @angular/cli
+
+Passo 2 - Verificar a versão do angular   
+            ng version
+
+Passo 3 - Criar um projeto com angular    
+            ng new nome_projeto
+
+Passo 4 - Acessar a pasta do projeto pelo prompt  
+    cd nome_projeto
+
+Passo 5 - Iniciar o projeto   
+            ng serve --open
+
+
+Primerio conceito do angular:
+    -Component - E o conjunto de html, css e TypeScript
+        Cada componente tera um nome (selector): ex: app-root
