@@ -30,3 +30,6 @@ Passo 5 - Iniciar o projeto
 Primerio conceito do angular:
     -Component - E o conjunto de html, css e TypeScript
         Cada componente tera um nome (selector): ex: app-root
+
+Segundo conceito do angular:
+    -Data Binding - Pega algo do arquivo .ts e exibe no arquivo .html do componente
