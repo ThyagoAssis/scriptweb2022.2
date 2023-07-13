@@ -1,0 +1,6 @@
+O inbound property permite passar uma informação de um componente para o outro
+Sintaxe: 
+    @Input() img = "endreço da imagem";
+    @Input() msg = "Mensagem"
+
+Utilizamos ele n oarquivo ts do componente que vai receber a informação
