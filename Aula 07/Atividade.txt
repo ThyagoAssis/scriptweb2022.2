@@ -1,0 +1,14 @@
+A TuxAdvogados é uma empresA do ramo jurídico. Pensando em melhorar o atendimento aos seus clientes a Tux te contratou para desenvolver uma aplicação para cadastros de clientes.
+
+Requisitos da aplicação:
+
+-Criar uma nova aplicação em angular
+-Ser desenvolvido com o framework Angular
+-Usar componentes (Header, Home, página clientes, formulário para cadastro, sobre nós)
+-Criação de rotas e configuração das rotas
+-Usar databinding
+-Usar event Binding
+-Usar inbound property
+
+OBS: Subir aplicação para o github e enviar o link para thyagoalmeidaprof@gmail.com
+OBS2: Não pode copiar do coleguinha.

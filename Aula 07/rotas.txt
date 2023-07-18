@@ -1,0 +1,21 @@
+Rotas do Angular.
+
+O que são rotas? - Rotas são caminhos
+
+O que são rotas do Angular? - São os caminhos que nos levam as paginas da nossa apliacação(URL)
+
+As rotas são definidas por dois elementos principais, o Path, que é o caminho (URL) e o Componente, que é o componente a ser carregado
+
+Passo a passo rotas simples:
+
+1 - Criar o componente que tera escopo de pagina:
+    ng generate component nome_componente
+
+2 - Configurar as rotas(Caminhos) dentro do app-routing.module.ts dentro do array routes
+    Ex: 
+    const routes: Routes = [
+        {path:'home' ,component:HomeComponent },
+        {path: 'fotolist', component: FotolistComponent}
+    ];
+
+3 - Adicionar a tag <router-outlet></router-outlet> dentro do arquivo app.component.html

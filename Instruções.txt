@@ -1,0 +1,3 @@
+1 - Acessar o meet - Link no https://dontpad.com/scriptweb2022.2
+2 - Inciar o projeto Angular
+3 - Abrir o projeto no Vscode
